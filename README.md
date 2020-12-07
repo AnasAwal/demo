@@ -1,4 +1,7 @@
 #DemoProjectReadme
-first level header
-# Heading2
-Do some thing
+
+This is a simple readme file
+
+## Heading2
+
+Just some updates, on a branch
